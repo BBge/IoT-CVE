@@ -8,6 +8,8 @@ To address these challenges, we design and implement UVScan, an automated and sc
 
 Further details can be found in our paper [&#34;UVSCAN: Detecting Third-Party Component Usage Violations in IoT Firmware.&#34;](https://www.usenix.org/conference/usenixsecurity23/presentation/zhao-binbin)
 
+The code can be found at https://github.com/BBge/UVScanX.
+
 <p align="right">
 <img title="" src="image/paper.png" align="right" width="250"/><a href="https://www.usenix.org/system/files/usenixsecurity23-zhao-binbin.pdf">
  </p>
